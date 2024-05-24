@@ -2,7 +2,7 @@
 
 ### Objective:
 
-Integrate the JustaName SDK into a platform, utilizing a React frontend and a NestJS backend. The claiming logic should be handled from the backend and the frontend should call an API to claim the subnames
+Integrate the JustaName SDK (@justaname.id/sdk @justaname.id/react) into a platform, utilizing a React frontend and a NestJS backend. The claiming logic should be handled from the backend and the frontend should call an API to claim the subnames
 
 ### Tasks:
 
@@ -51,4 +51,6 @@ Integrate the JustaName SDK into a platform, utilizing a React frontend and a Ne
 - Bonus points for successfully dockerizing the backend
 - Bonus point: Demonstrate possible solutions for scaling the application (if applicable)
 
-PS: Contact [ghadi@justalab.co](mailto:ghadi@justalab.co) or hadi@justalab.co for unclear instructions
+PS: Documentation: [JustaName Docs](https://docs.justaname.id/)
+
+Contact [ghadi@justalab.co](mailto:ghadi@justalab.co) or hadi@justalab.co for unclear instructions
