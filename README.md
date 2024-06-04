@@ -52,12 +52,12 @@ Integrate the JustaName SDK (@justaname.id/sdk @justaname.id/react) into a platf
 - Bonus point: Demonstrate possible solutions for scaling the application (if applicable)
 
 Resources:
-https://docs.justaname.id
-https://docs.ethers.org/v6/
-https://metamask.io/
-https://faucet.quicknode.com/ethereum/sepolia
-https://app.ens.domains/
-https://medium.com/@kaishinaw/signing-in-with-ethereum-owning-your-own-identity-a5714f1afcdc
-
+- https://docs.justaname.id
+- https://docs.ethers.org/v6/
+- https://metamask.io/
+- https://faucet.quicknode.com/ethereum/sepolia
+- https://app.ens.domains/
+- https://medium.com/@kaishinaw/signing-in-with-ethereum-owning-your-own-identity-a5714f1afcdc
+- https://docs.login.xyz/
 
 Contact [ghadi@justalab.co](mailto:ghadi@justalab.co) or hadi@justalab.co for unclear instructions
